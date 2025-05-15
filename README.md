@@ -1,2 +1,4 @@
 # verify-of-user
-this an a basically use to verify if the use is right one or not and it use the my sql database to establish the connection runner in node.js Environment to start the server 
+this an a basically html and js page to verity user 
+i have basically done is create a database 
+than establish the connection use the node.js .
